@@ -26,4 +26,4 @@ This project is a responsive travel destination website that showcases various p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/otomatikci/travel-destination-website.git
+   git clone [https://github.com/otomatikci/travel-destination-website.git](https://github.com/otomatikci/yourrepository.git))
