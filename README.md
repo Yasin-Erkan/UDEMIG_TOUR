@@ -7,7 +7,7 @@ This project is a responsive travel destination website that showcases various p
 
 ## Demo
 
-![Demo GIF](https://github.com/otomatikci/travel-destination-website/blob/main/demo.gif?raw=true)
+![Demo GIF](Udemig-Tour.gif)
 
 ## Features
 
